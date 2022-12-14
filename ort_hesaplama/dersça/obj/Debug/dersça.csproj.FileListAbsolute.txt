@@ -1,0 +1,8 @@
+C:\Users\Monster\source\repos\dersça\dersça\bin\Debug\dersça.exe.config
+C:\Users\Monster\source\repos\dersça\dersça\bin\Debug\dersça.exe
+C:\Users\Monster\source\repos\dersça\dersça\bin\Debug\dersça.pdb
+C:\Users\Monster\source\repos\dersça\dersça\obj\Debug\dersça.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\dersça\dersça\obj\Debug\dersça.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\dersça\dersça\obj\Debug\dersça.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\dersça\dersça\obj\Debug\dersça.exe
+C:\Users\Monster\source\repos\dersça\dersça\obj\Debug\dersça.pdb
