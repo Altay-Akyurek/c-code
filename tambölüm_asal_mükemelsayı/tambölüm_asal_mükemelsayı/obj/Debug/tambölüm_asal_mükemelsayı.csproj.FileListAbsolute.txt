@@ -1,0 +1,8 @@
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\bin\Debug\tambölüm_asal_mükemelsayı.exe.config
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\bin\Debug\tambölüm_asal_mükemelsayı.exe
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\bin\Debug\tambölüm_asal_mükemelsayı.pdb
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\obj\Debug\tambölüm_asal_mükemelsayı.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\obj\Debug\tambölüm_asal_mükemelsayı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\obj\Debug\tambölüm_asal_mükemelsayı.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\obj\Debug\tambölüm_asal_mükemelsayı.exe
+C:\Users\Monster\source\repos\tambölüm_asal_mükemelsayı\tambölüm_asal_mükemelsayı\obj\Debug\tambölüm_asal_mükemelsayı.pdb
